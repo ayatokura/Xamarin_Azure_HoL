@@ -24,3 +24,5 @@ A: さまざまなプログラムからAzureを無料で入手できます。
 * [Azureエンタープライズ契約](https://azure.microsoft.com/ja-jp/pricing/enterprise-agreement/)
 * [学生支援プログラム Microsoft Imagine](https://azure.microsoft.com/ja-jp/pricing/member-offers/imagine/)  
 その他
+
+#MSKKAzureWebMobile
